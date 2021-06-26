@@ -6,7 +6,11 @@ import android.os.Bundle;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.google.firebase.firestore.FirebaseFirestore;
+
 public class MainActivity extends AppCompatActivity {
+
+
 
 TextView frase;
 
@@ -24,7 +28,7 @@ ImageView fotoIsla;
 
         isla = (Isla)getIntent().getSerializableExtra("datosIsla");
 
-        fotoIsla.setImageResource(isla.getFotoIsla());
+       // fotoIsla.setImageResource(isla.getFotoIsla());
 
     }
 }

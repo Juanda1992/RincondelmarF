@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rincon del mar</string>
+    <string name="opcion1">About us</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Spanish</string>
+
+    <string name="descripcion">My name is Juan David Olarte Gomez, born in Medellin on November 18, 1992
+     raised in a humble family with the necessary resources for a good training, both as personal and academic,
+     I have delved into various topics throughout my youth, such as languages, business, etc ... finally
+     coming to the field of technology in the area of software development which I find challenging and fun
+     We will continue taking slow but safe steps within an area which always caused me a lot of curiosity.</string>
+
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461564518904",
+    "project_id": "rincondelmar-5f620",
+    "storage_bucket": "rincondelmar-5f620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461564518904:android:b53ffe4b81665cd4ee360d",
+        "android_client_info": {
+          "package_name": "com.example.rincondelmar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461564518904-vh2h6uo7cktc3ct4meghk0nml6r89ooj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKGDa2zoVTF1Gv3qvjYZEpaWdvhL8VS2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461564518904-vh2h6uo7cktc3ct4meghk0nml6r89ooj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

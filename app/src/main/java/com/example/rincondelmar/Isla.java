@@ -4,10 +4,10 @@ import java.io.Serializable;
 
 public class Isla implements Serializable {
 
-    String nombreIsla;
-    int fotoIsla;
+    String nombreIsla,fotoIsla;
+    //int fotoIsla;
 
-    public Isla(String nombreIsla, int fotoIsla) {
+    public Isla(String nombreIsla, String fotoIsla) {
         this.nombreIsla = nombreIsla;
         this.fotoIsla = fotoIsla;
     }
@@ -20,11 +20,11 @@ public class Isla implements Serializable {
         this.nombreIsla = nombreIsla;
     }
 
-    public int getFotoIsla() {
+    public String getFotoIsla() {
         return fotoIsla;
     }
 
-    public void setFotoIsla(int fotoIsla) {
+    public void setFotoIsla(String fotoIsla) {
         this.fotoIsla = fotoIsla;
     }
 }
